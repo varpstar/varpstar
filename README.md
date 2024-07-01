@@ -1,6 +1,5 @@
 HELLO \
 My name is Steven \
-I'm software engineer \
 🔭 I’m currently working on Guarda as software engineer
 
 <!--
