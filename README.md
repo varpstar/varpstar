@@ -1,4 +1,7 @@
-
+HELLO \
+My name is Steven \
+I'm software engineer \
+🔭 I’m currently working on Guarda as software engineer
 
 <!--
 **varpstar/varpstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
