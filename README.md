@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there 👋 <br/>
 My name is Steven \
 Frontend & Mobile Developer | 6+ Years Experience
