@@ -5,8 +5,6 @@ Frontend & Mobile Developer | 6+ Years Experience
 🔭 Skilled in building robust frontend and mobile applications using JavaScript, TypeScript and React Native. Experienced with GraphQL, Redux, React, and Svelte. \
 🌱 Currently honing my skills in Kotlin with Jetpack Compose.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=varpstar&theme=dark-minimalist&border_radius=8.8&date_format=M%20j%5B%2C%20Y%5D&background=091235)](https://git.io/streak-stats)
 <!--
 **varpstar/varpstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
