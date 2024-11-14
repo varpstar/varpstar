@@ -1,9 +1,9 @@
 Hi there 👋 <br/>
-My name is Steven \
+My name is Stephen \
 Frontend & Mobile Developer | 6+ Years Experience
 
 🔭 Skilled in building robust frontend and mobile applications using JavaScript, TypeScript and React Native. Experienced with GraphQL, Redux, React, and Svelte. \
-🌱 Currently honing my skills in Kotlin with Jetpack Compose.
+🌱 Currently honing my skills in Kotlin with Jetpack Compose. And a little bit rust
 
 <!--
 **varpstar/varpstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
